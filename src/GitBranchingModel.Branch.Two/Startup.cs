@@ -42,6 +42,8 @@ namespace GitBranchingModel.Branch.Two
             app.UseHttpsRedirection();
             app.UseStaticFiles();
 
+            // changes from Bob 002
+
             app.UseRouting();
 
             app.UseAuthorization();
