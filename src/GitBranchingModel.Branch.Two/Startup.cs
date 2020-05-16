@@ -44,6 +44,8 @@ namespace GitBranchingModel.Branch.Two
 
             // changes from Bob 002
 
+            // changes from Bob 006
+
             app.UseRouting();
 
             app.UseAuthorization();
